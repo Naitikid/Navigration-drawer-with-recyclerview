@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_nameofaccount"
+        android:title="@string/nameofaccount"
+        android:icon="@drawable/verified_user"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/settings"
+        android:icon="@drawable/settings"
+        />
+
+    <item
+        android:id="@+id/nav_privacyPolicy"
+        android:title="@string/privacypolicy"
+        android:icon="@drawable/privacy"
+        />
+    <item
+        android:id="@+id/webview"
+        android:title="@string/webview"
+        android:icon="@drawable/webview"
+        />
+
+</menu>
